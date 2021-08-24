@@ -1,0 +1,15 @@
+numpy
+matplotlib
+
+torchvision==0.10.0+cu102
+torchaudio===0.9.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0+cu102
+
+# torch-scatter -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
+
+# torch-sparse -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
+
+# torch-geometric
+
+# torch-cluster -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
