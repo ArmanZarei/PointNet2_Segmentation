@@ -2,6 +2,7 @@
 
 ## Results
 ### Examples from Test Set
+:bulb: Notice the convergence in first steps
 <table>
     <thead>
         <tr>
