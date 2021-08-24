@@ -1,4 +1,4 @@
-# RandLA-Net - PyTorch Implementation
+# PointNet++ Segmentation - PyTorch Implementation
 
 ## Results
 ### Examples from Test Set
